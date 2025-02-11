@@ -1,7 +1,7 @@
 import Providers from './Providers'
 import Navbar from './components/Header'
 import SearchItem from './components/SearchItem'
-import './App.css'
+// import './App.css'
 
 
 const App = () => {

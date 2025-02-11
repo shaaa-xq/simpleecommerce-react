@@ -1,5 +1,5 @@
 import { useState, useCallback } from "react"
-import { products } from "../DummyData"
+// import { products } from "../DummyData"
 
 const SearchItem = () => {
   const [search, setSearch] = useState('')
